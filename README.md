@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-:sunny: All about me is at **[My Website](https://peaceful-maamoul-332851.netlify.app/)**
+:sunny: All about me is on **[My Website](https://peaceful-maamoul-332851.netlify.app/)**
 
 <div align="center">
   <h1> Shams Alsaraireh </h1>
