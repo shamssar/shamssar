@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-:sunny: All about me is on **[My Website](https://peaceful-maamoul-332851.netlify.app/)**
+:sunny: All about me is on **[Portfolio](https://effervescent-melomakarona-336b89.netlify.app/)**
 
 <div align="center">
   <h1> Shams Alsaraireh </h1>
@@ -11,7 +11,7 @@
   <a href="https://github.com/shamssar">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  <p>Likable and dedicated Full-stack web-developer using JavaScript, html, CSS, and NodeJS. Eager to offer superb coding and computer skills to help the organization I am working to grow its client base and increase customer satisfaction in the IT industry.</p>
+  <p>Likable and dedicated Full-stack web-developer using JavaScript, html, CSS, and NodeJS. Eager to offer superb coding and computer skills to help the organization I am working for to grow its client base and increase customer satisfaction in the IT industry.</p>
 </div>
 
 <div align="center">
